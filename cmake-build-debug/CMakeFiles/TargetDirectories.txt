@@ -1,0 +1,3 @@
+/home/valery/Projects/opensource/github/BPF_Cpp_experiments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valery/Projects/opensource/github/BPF_Cpp_experiments/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valery/Projects/opensource/github/BPF_Cpp_experiments/cmake-build-debug/CMakeFiles/BPF_Cpp_experiments.dir

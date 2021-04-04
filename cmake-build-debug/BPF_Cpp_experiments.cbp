@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/valery/Projects/opensource/github/BPF_Cpp_experiments/bpf_program.c">
+		<Unit filename="/home/valery/Projects/opensource/github/BPF_Cpp_experiments/bpf_load.c">
 			<Option target="BPF_Cpp_experiments"/>
 		</Unit>
 		<Unit filename="/home/valery/Projects/opensource/github/BPF_Cpp_experiments/CMakeLists.txt">

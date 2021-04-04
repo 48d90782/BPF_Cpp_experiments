@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/valery/Projects/opensource/github/BPF_Cpp_experiments/bpf_program.c" "/home/valery/Projects/opensource/github/BPF_Cpp_experiments/cmake-build-debug/CMakeFiles/BPF_Cpp_experiments.dir/bpf_program.c.o"
+  "/home/valery/Projects/opensource/github/BPF_Cpp_experiments/bpf_load.c" "/home/valery/Projects/opensource/github/BPF_Cpp_experiments/cmake-build-debug/CMakeFiles/BPF_Cpp_experiments.dir/bpf_load.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

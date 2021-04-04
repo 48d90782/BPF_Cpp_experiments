@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "BPF_Cpp_experiments"
   "BPF_Cpp_experiments.pdb"
-  "CMakeFiles/BPF_Cpp_experiments.dir/bpf_program.c.o"
+  "CMakeFiles/BPF_Cpp_experiments.dir/bpf_load.c.o"
 )
 
 # Per-language clean rules from dependency scanning.
